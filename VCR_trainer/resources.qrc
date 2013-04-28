@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>resources/Pic_VirtualClassroom.gif</file>
+        <file>resources/wall.png</file>
+        <file>resources/drive.png</file>
+        <file>resources/gnome-session-logout.png</file>
+        <file>resources/web-browser.png</file>
+        <file>resources/AG_Music.png</file>
+        <file>resources/cloud.png</file>
+        <file>resources/user.png</file>
+        <file>resources/wallpaper-2552963.jpg</file>
+    </qresource>
+</RCC>
